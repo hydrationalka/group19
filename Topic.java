@@ -22,7 +22,7 @@ public class Topic {
     	return topicList;
     }
 
-    public static Theme getQuizTopic() {
+    public static T getQuizTopic() {
     	return quizTopic;
     }
 
